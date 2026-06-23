@@ -89,3 +89,12 @@ This repository contains the full research presentation, including:
 
 ### Slide 26
 ![Slide 26](CarpoolApp_InvestigacionUX_26.png)
+
+### Slide 27
+![Slide 27](CarpoolApp_InvestigacionUX_27.png)
+
+### Slide 28
+![Slide 28](CarpoolApp_InvestigacionUX_28.png)
+
+### Slide 29
+![Slide 29](CarpoolApp_InvestigacionUX_29.png)
